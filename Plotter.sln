@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotter", "Plotter\Plotter.csproj", "{D32E1BB9-F8CB-44C0-985F-3D4D2F76BA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotter.Tests", "Plotter.Tests\Plotter.Tests.csproj", "{B9FAF44B-F763-4DE4-BE15-93426C4C27D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32E1BB9-F8CB-44C0-985F-3D4D2F76BA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32E1BB9-F8CB-44C0-985F-3D4D2F76BA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32E1BB9-F8CB-44C0-985F-3D4D2F76BA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32E1BB9-F8CB-44C0-985F-3D4D2F76BA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FAF44B-F763-4DE4-BE15-93426C4C27D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FAF44B-F763-4DE4-BE15-93426C4C27D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FAF44B-F763-4DE4-BE15-93426C4C27D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FAF44B-F763-4DE4-BE15-93426C4C27D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A620D5-3EB1-4A6F-9FDE-8707AC8A25CE}
+	EndGlobalSection
+EndGlobal
